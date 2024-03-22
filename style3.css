@@ -1,0 +1,25 @@
+/* backgorund height width margin and padding */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#temp{
+    height:100px;
+    width:100px;
+    background-color:red;
+    /* background-image: url("https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/07/03090935/Blog-Info-graphics-1000X700-02.jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin:13px 23px;
+    padding:10px;
+    
+}
+
+#temp2{
+    height:100px;
+    width:100px;
+    background-color:red;
+    /* background-image: url("https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/07/03090935/Blog-Info-graphics-1000X700-02.jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
